@@ -5,4 +5,3 @@ I am a graduate student at NC State University in Computer Engineering. I'm a so
 - 🌱 I’m currently learning JavaScript, React, and Docker. 
 - 📫 How to reach me: email me at john.bumgardner@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I missed an opportunity to meet then candidate Joe Biden, and my friends never let me live it down.
