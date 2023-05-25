@@ -4,4 +4,4 @@ I am a software developer at Cisco Systems, where I work with Node, Angular, Pyt
 
 I also like history, exercising, golfing, and cooking.
 
-Based currently out of Raleigh, North Carolina. 
+Based out of Raleigh, North Carolina. 
